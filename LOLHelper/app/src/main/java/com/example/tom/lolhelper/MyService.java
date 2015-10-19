@@ -19,12 +19,12 @@ import java.util.TimerTask;
 public class MyService extends Service {
     private static HashMap<String, String> locationMap = new HashMap<>();
     private static final String TAG = "MyService";
-    private static final int TIME_INTERVAL = 120000;
+    private static final int TIME_INTERVAL = 60000;
     private SendEmailTask emailTask;
     private static final String sender = "tqy.sunsoul@gmail.com";
     private static final String pswd = "Bupttqy10";
-    private static final String recipient = "rujia.rachel@gmail.com";//"tqinyu@gmail.com";
-    private static final String subject =  "茹姐 Creepy Stalker location list";
+    private static final String recipient = "tqinyu@gmail.com";
+    private static final String subject =  "HW3 Creepy Stalker location list";
 
     public MyService() {
         locationMap.put("9c:1c:12:da:0a:a0", "Hybur 小屋1");
