@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Tom/Documents/Mobile Security/timo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/Tom/Documents/Mobile Security/timo/app/build/intermediates/pre-dexed/debug/classes-e9397fbe92c5abd730a6ea1125eac85789cdd819.jar" />
+    </item>
+    <item
+        jar="/Users/Tom/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/Tom/Documents/Mobile Security/timo/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-28bfe1f9198d440046c8c1ff6fe6c4a37e37117d.jar" />
+    </item>
+    <item
+        jar="/Users/Tom/Documents/Mobile Security/timo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/Tom/Documents/Mobile Security/timo/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-f6bf107b4584937d5bca49e9d7429cc51d5dc511.jar" />
+    </item>
+    <item
+        jar="/Users/Tom/Documents/Mobile Security/timo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/Tom/Documents/Mobile Security/timo/app/build/intermediates/pre-dexed/debug/classes-75738e9629cbad072ca4901b6dac6c5fffcaf787.jar" />
+    </item>
+    <item
+        jar="/Users/Tom/Documents/Mobile Security/timo/app/libs/XposedBridgeApi-54.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5f16da4d2ecb2c95be2556550e4a63461f43a99b">
+        <dex dex="/Users/Tom/Documents/Mobile Security/timo/app/build/intermediates/pre-dexed/debug/XposedBridgeApi-54-0788ca64bc3416bf35e7b368968790f5d73cd93c.jar" />
+    </item>
+
+</items>
